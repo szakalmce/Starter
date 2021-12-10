@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-contact-js-a824bcf5fc205dc7a1d2.js","mappings":"0HAMA,UAJgB,WACd,OAAO","sources":["webpack://sterter/./src/pages/Contact.js"],"sourcesContent":["import React from \"react\";\r\n\r\nconst Contact = () => {\r\n  return <div>Contact Site</div>;\r\n};\r\n\r\nexport default Contact;\r\n"],"names":[],"sourceRoot":""}

@@ -1,0 +1,5 @@
+
+    const cmd = require("C:/Users/Tomek/Desktop/GITHUB/Starter/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":61073,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"C:\\Users\\Tomek\\Desktop\\GITHUB\\Starter","browserslist":[">0.2%","not dead","not ie <= 11","not op_mini all"],"sitePackageJson":{"name":"sterter","version":"1.0.0","description":"","keywords":[],"main":"src/index.js","dependencies":{"gatsby":"^4.3.0","react":"^17.0.2","react-dom":"^17.0.2","react-icons":"4.3.1","react-router-dom":"^6.0.2","react-scripts":"4.0.0"},"devDependencies":{"@babel/runtime":"7.13.8","webpack-dev-server":"^3.11.0"},"scripts":{"dev":"gatsby develop -p 3333 -o","build":"gatsby build"},"browserslist":[">0.2%","not dead","not ie <= 11","not op_mini all"]},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
